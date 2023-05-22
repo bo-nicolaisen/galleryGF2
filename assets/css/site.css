@@ -46,11 +46,6 @@ header p {
 
 /* gallery specific styling*/
 
-.loadingIcon {
-  width: 10%;
-  margin-top: 20%;
-}
-
 .galleryCard {
   display: block;
   background-color: #eeeeee;
